@@ -7,4 +7,4 @@ PESTO - Parallel Execution Simulation Tool - was developed at AIT-IES with the p
 
 Loading resources and saving results happens through a shared drive. The client computers will be connected to this shared drive by **PESTO**.
 
-For further information see: [PESTO Wiki](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
+For further information see: [PESTO wiki](https://github.com/AIT-IES/PESTO/wiki)
