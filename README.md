@@ -6,3 +6,5 @@ PESTO - Parallel Execution Simulation Tool - was developed at AIT-IES with the p
 **PsTools** has to be ran by the Administrator account, not only an user with administrator rights but the actual Administrator account. The Administrator account must therefore be activated and access to it is a main requirement to run **PESTO**.
 
 Loading resources and saving results happens through a shared drive. The client computers will be connected to this shared drive by **PESTO**.
+
+For further information see [PESTO wiki](https://github.com/AIT-IES/PESTO/wiki)
