@@ -1,0 +1,41 @@
+{
+
+"pesto-client_path": "C:\\",
+
+"clients":
+
+ [
+ "bence-client1"
+ ],
+
+"working directory": "C:\\WorkingDirectory",
+
+"resources directory": "example-Resources",
+
+"results directory": "example-Results",
+
+"shared drive": "\\\\bence-master\\x",
+
+"adminpassword": "password",
+
+"tasks":
+
+ [
+  "example.bat result1",
+ "example.bat result2",
+ "example.bat result3",
+ "example.bat result4",
+ "example.bat result5",
+ "example.bat result6",
+ "example.bat result7",
+ "example.bat result8",
+ "example.bat result9",
+ "example.bat result10",
+ "exampl.bat result11",
+ "xample.bat result12" 
+ ],
+
+
+"windows users": 1
+ 
+}
